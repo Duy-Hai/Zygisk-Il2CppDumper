@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
       inputs:
         package_name:
-          description: "com.riotgames.league.wildriftvn:"
+          description: "Dump LoL Will Rift:"
           required: true
 
 jobs:
